@@ -8,6 +8,8 @@ guide on how to use the parameters : https://docs.google.com/document/d/13vVTpPZ
 
 YOU STILL NEED CONDA TO RUN THIS
 
+I haven't tested this extensively so please let me know if something's bugged
+
 HOW TO : 
 
 this link should help you get started : https://www.howtogeek.com/830179/how-to-run-stable-diffusion-on-your-pc-to-generate-ai-images/
