@@ -8,6 +8,8 @@ guide on how to use the parameters : https://docs.google.com/document/d/13vVTpPZ
 
 YOU STILL NEED CONDA TO RUN THIS
 
+YOU STILL NEED THE KEYBOARD MODULE TO RUN THIS
+
 I haven't tested this extensively so please let me know if something's bugged
 
 HOW TO : 
