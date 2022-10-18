@@ -2,6 +2,8 @@
 
 Stable Diffusion Deforum repo - Houdini Integration
 
+Go read the readme at ../StableDiffusionIntegration
+
 get the repo here : https://github.com/HelixNGC7293/DeforumStableDiffusionLocal
 
 guide on how to use the parameters : https://docs.google.com/document/d/13vVTpPZb9fUPzRFtqTXcAmBqm10tE6l039lF1LyItKg/edit
