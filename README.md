@@ -31,9 +31,12 @@ Thank you to Mattias Lindberg and Pete for beta testing !
 
 Daily Build #2 2022-10-19
 
-  Fixed an issue where stills wouldn't import into COPs
-  Fixed an issue where video input would create stills
-  Added Int sliders to determine when to switch prompt when creating animation
-  Added ui dialog to warn of already existing tempjson folder
+  -Fixed an issue where stills wouldn't import into COPs
+  
+  -Fixed an issue where video input would create stills
+  
+  -Added Int sliders to determine when to switch prompt when creating animation
+  
+  -Added ui dialog to warn of already existing tempjson folder
 
 
